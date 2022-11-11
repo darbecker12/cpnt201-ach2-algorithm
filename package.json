@@ -1,0 +1,25 @@
+{
+  "name": "cpnt201-ach2-algorithm",
+  "version": "1.0.0",
+  "description": "Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "temp": "node ./index.js",
+    "reverse": "node ./reverse.js",
+    "factorial": "node ./factorial.js",
+    "finder": "node ./finder.js",
+    "boowho": "node ./boowho.js",
+    "repeat": "node ./repeat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darbecker12/cpnt201-ach2-algorithm.git"
+  },
+  "author": "Darryl Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darbecker12/cpnt201-ach2-algorithm/issues"
+  },
+  "homepage": "https://github.com/darbecker12/cpnt201-ach2-algorithm#readme"
+}
